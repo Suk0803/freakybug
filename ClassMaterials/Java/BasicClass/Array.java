@@ -1,4 +1,4 @@
-package ClassMaterials.Java;
+package ClassMaterials.Java.BasicClass;
 
 import java.util.Arrays;
 
